@@ -24,3 +24,9 @@ A group project to build an ETL pipeline using Python, Pandas, and PostgreSQL to
 - Use the provided crowdfunding_db_schema.sql file to create tables in the PostgreSQL database.
 - Load the CSV files into the corresponding PostgreSQL tables.
 - Query the database to verify the data has been loaded correctly.
+
+## Acknowledgements
+
+- Thanks to our instructional team for guidance.
+- Data provided via `crowdfunding.xlsx` and `contacts.xlsx` files.
+- Inspired by the need to explore crowdfunding trends using an ETL pipeline.
